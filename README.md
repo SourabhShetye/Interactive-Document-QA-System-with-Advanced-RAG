@@ -50,7 +50,7 @@ Python
 os.environ["GROQ_API_KEY"] = "your_groq_api_key_here"
 Run the Application: Execute the cells in the notebook.
 
-Access the UI: Open the local URL (http://0.0.0.0:7860) or the provided public Gradio share link to begin asking questions.
+Access the UI: Open the local URL (http://0.0.0.0:7860).
 
 Requirements & Technologies
 
